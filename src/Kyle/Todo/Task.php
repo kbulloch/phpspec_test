@@ -2,6 +2,6 @@
 
 namespace Kyle\Todo;
 
-interface Task
+class Task
 {
 }
